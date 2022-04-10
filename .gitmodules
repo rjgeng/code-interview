@@ -1,0 +1,3 @@
+[submodule "interview-arcade"]
+	path = interview-arcade
+	url = git@github.com:freeCodeChallenges/interview-arcade.git
